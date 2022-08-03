@@ -1,0 +1,26 @@
+AddTeam;Galatasaray;1905;75;sarı kırmızı
+AddTeam;Fenerbahçe;1907;56;sarı lacivert
+AddCoach;Erol Bulut;Bağdat Caddesi;Kadıköy;İstanbul;Türkiye;90;212;1234567;Fenerbahçe;30;07;2020;31;05;2022;600000
+AddCoach;Fatih Terim;Yalı Caddesi;Bebek;İstanbul;Türkiye;90;212;7654321;Galatasaray;01;06;2019;31;05;2021;2500000
+AddTeam;Beşiktaş;1903;51;siyah beyaz
+AddPlayer;17701;MesutÖzil;15;10;1988;Almanya;OsmanbeyCaddesi;Gaziosmanpaşa;İstanbul;Türkiye;90;212;1726354;Fenerbahçe;05;01;2021;31;05;2024;2100000;midfielder
+AddPlayer;853895;ArdaTuran;30;01;1987;Türkiye;ValikonağıCaddesi;Şişli;İstanbul;Türkiye;90;212;5554433;Galatasaray;06;08;2020;31;05;2021;120000;attacker
+AddPlayer;15302;CenkTosun;07;06;1991;Almanya;İstiklalCaddesi;Taksim;İstanbul;Türkiye;90;212;5556677;Beşiktaş;01;02;2021;29;02;2021;120000;attacker
+AddCoach;Sergen Yalçın;İstiklal Caddesi;Taksim;İstanbul;Türkiye;90;212;9876543;Beşiktaş;29;01;2020;31;05;2021;1800000
+AddPlayer;17686;AtillaArpadSzalai;20;01;1998;Budapeşte;DivanyoluCaddesi;Fatih;İstanbul;Türkiye;90;212;9384756;Fenerbahçe;18;01;2021;31;05;2025;500000;defender
+DeletePlayer;17686
+AddStadium;Türk Telekom Stadium;İstanbul;52223;true;grass
+AddStadium;Şükrü Saraçoğlu Stadium;İstanbul;47834;true;grass
+AddStadium;Vodafone Park Stadium;İstanbul;41903;true;grass
+AddReferee;Cüneyt Çakır;Ordu Caddesi;Fatih;İstanbul;Türkiye;90;212;3332211;50000
+AddReferee;Fırat Aydınus;Ata Caddesi;Yeşilköy;İstanbul;Türkiye;90;212;1144555;40000
+AddReferee;Halis Özkahya;Tarabya Caddesi;Tarabya;İstanbul;Türkiye;90;212;6665544;30000
+AddCompany;Ülker A.Ş.;Valikonağı Caddesi;Şişli;İstanbul;Türkiye;90;212;1122333;Fenerbahçe
+AddCompany;Türk Telekom A.Ş.;Yaka Caddesi;Büyükçekmece;İstanbul;Türkiye;90;212;1122333;Galatasaray
+AddCompany;Vodafone A.Ş.;Kaya Caddesi;Ortaköy;İstanbul;Türkiye;90;212;8877666;Beşiktaş
+AddMatch;Galatasaray;4;Fenerbahçe;0;1;2;3;1
+AddMatch;Beşiktaş;2;Fenerbahçe;2;1;2;3;2
+AddMatch;Fenerbahçe;2;Galatasaray;3;1;2;3;3
+AddMatch;Galatasaray;2;Beşiktaş;0;1;2;3;1
+AddMatch;Beşiktaş;0;Galatasaray;3;1;2;3;2
+AddMatch;Fenerbahçe;0;Beşiktaş;1;1;3;4;3
